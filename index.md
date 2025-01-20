@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/img/Screenshot 2025-01-20 182627.png
     alt: "Syringe Pump"
     title: "Syringe Pump Device"
-    excerpt: "Built for provided precise amounts of fluid and specific flow rates."
+    excerpt: "Built to deliver precise amounts of fluid at specific flow rates."
   
 ---
 
