@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Florian"
+title                    : "Chris Zovko"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
-name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+subtitle                 : "Technical Portfolio"
+name                     : &name "Chris Zovko" # &name is a YAML anchor which can be *referenced later
+description              : &description "Technical Portfolio"
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -97,8 +97,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
+  avatar           : "C:\Users\chris\Downloads\IMG_8960.PNG"
+  bio              : "Human and Organizational Development Student at Vanderbilt University"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
