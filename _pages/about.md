@@ -6,13 +6,11 @@ title: "About David Florian"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Chris Zovko is a student majoring in Human and Organizational Development with an interest in science and technology.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Human and Organizational Development
+  
 
 ## Technical Skills
 
