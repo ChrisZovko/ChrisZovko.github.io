@@ -1,6 +1,6 @@
 ---
 
-title: "About David Florian"
+title: "About Chris Zovko"
 
 ---
 
@@ -9,21 +9,13 @@ title: "About David Florian"
 Chris Zovko is a student majoring in Human and Organizational Development with an interest in science and technology.
 
 * Vanderbilt University
-  * BS Human and Organizational Development
+  * BS Human and Organizational Development (expected May, 2026)
   
 
-## Technical Skills
-
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+## Technical Skills/Core Competencies
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+* Python Programming
+* QGIS
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
