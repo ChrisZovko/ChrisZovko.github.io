@@ -11,16 +11,10 @@ header:
 excerpt: "Detail-oriented Human and Organizational Development student with a strong academic foundation in programming, data analysis, and organizational theory. Adept at applying problem-solving and quantitative analysis to support strategic decision-making. Demonstrates leadership potential through roles requiring effective collaboration and team management. Eager to translate academic insights into real-world impact within dynamic business environments."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    alt: "Syringe Pump"
+    title: "Syringe Pump Device"
+    excerpt: "Built for provided precise amounts of fluid and specific flow rates."
+  
 ---
 
 {% include feature_row %}
