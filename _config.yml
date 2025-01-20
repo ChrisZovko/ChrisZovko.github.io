@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "C:\Users\chris\Downloads\IMG_8960.PNG"
+  avatar           : ""
   bio              : "Human and Organizational Development Student at Vanderbilt University"
   location         : "Nashville, TN"
   links:
