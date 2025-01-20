@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Technical Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Detail-oriented Human and Organizational Development student with a strong academic foundation in programming, data analysis, and organizational theory. Adept at applying problem-solving and quantitative analysis to support strategic decision-making. Demonstrates leadership potential through roles requiring effective collaboration and team management. Eager to translate academic insights into real-world impact within dynamic business environments."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
