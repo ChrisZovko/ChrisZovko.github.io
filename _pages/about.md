@@ -18,4 +18,4 @@ Chris Zovko is a student majoring in Human and Organizational Development with a
 * Python Programming
 * QGIS
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/IMG_9571 (1).jpg" alt="Chris Zovko" style="width:200px;"/>
