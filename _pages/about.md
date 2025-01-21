@@ -14,10 +14,15 @@ Chris Zovko is a student majoring in Human and Organizational Development with a
 
 ## Technical Skills/Core Competencies
 
+## Digital Fabrication
 * Fused Filament Fabrication (FFF)
-* Python Programming
-* QGIS
+* AutoCAD
 
+## Software
+* Python
+* QGIS
+* R
+  
 ## Work Experience
 Kumon – New Hyde Park, NY 	 SEP 2021 – SEP 2022
 Instructor
@@ -38,7 +43,7 @@ Tutor
 *	Achieved a high success rate, with students gaining admission to top-tier universities.
 *	Offered 250 hours of dedicated tutoring, focusing on personal and academic development.
 
-  ## Work Experience
+## Awards
   * Eagle Scout(2022)
 
 
