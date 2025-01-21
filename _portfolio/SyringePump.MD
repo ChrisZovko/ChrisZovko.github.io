@@ -44,7 +44,7 @@ gallery:
 
 ## Interactive CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/g/projects/20220916557357901/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uWDk5MEFzZUtUN0NrZnU4T3UxSmtGdw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOjJNUkpTN1R0U0VxSUFnWVhoaXlwc0E/overview" width ="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a460390ca15d5c3379?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Arduino Code
   [Arduino Code Ex. 1](/DF2100_Syringe_Pump_Project.ino)
