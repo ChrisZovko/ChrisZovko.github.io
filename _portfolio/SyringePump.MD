@@ -12,6 +12,8 @@ gallery:
 ## Syringe Purpose and Features
   The purpose of the syringe pump device is to provide precise volumes of fluid at various flow rates. On the pump there is an LCD display which shows the selected flow rate based on the inputs from the potentiometer. The pump also as the option to adjust the position of the syringe using buttons that rotate the motor clockwise or coutner-clockwise. 
 
+(Screenshot 2025-01-21 015922.png)
+
 | Off the Shelf Parts | Quantity |
 | ----------- | ----------- |
 | 250mm lead screw with 2mm pitch and 2mm lead | 1 |
