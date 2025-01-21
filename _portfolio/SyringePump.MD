@@ -2,11 +2,11 @@
 title: "Syringe Pump"
 excerpt: "DIY Syringe Pump made using CAD, and Arduino!"
 header:
-  image: Screenshot 2025-01-21 015922.png
-  teaser: Screenshot 2025-01-21 015922.png
+  image: /assets/img/Screenshot 2025-01-21 015922.png
+  teaser: /assets/img/Screenshot 2025-01-21 015922.png
 gallery:
-  - url: Screenshot 2025-01-21 015922.png
-    image_path: Screenshot 2025-01-21 015922.png
+  - url: /assets/img/Screenshot 2025-01-21 015922.png
+    image_path: /assets/img/Screenshot 2025-01-21 015922.png
 ---
 
 ## Syringe Purpose and Features
