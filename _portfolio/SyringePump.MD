@@ -12,7 +12,6 @@ gallery:
 ## Syringe Purpose and Features
   The purpose of the syringe pump device is to provide precise volumes of fluid at various flow rates. On the pump there is an LCD display which shows the selected flow rate based on the inputs from the potentiometer. The pump also as the option to adjust the position of the syringe using buttons that rotate the motor clockwise or coutner-clockwise. 
 
-image: /assets/img/Screenshot 2025-01-21 015922.png
 
 | Off the Shelf Parts | Quantity |
 | ----------- | ----------- |
@@ -42,6 +41,10 @@ image: /assets/img/Screenshot 2025-01-21 015922.png
 
 ## Pump Operation
   Once the pump is on the flow rate can be chosen using the potentiometer with the selected flow rate being displayed on the LCD panel. The syringe can be retracted to a starting position and pushed forward using the larger pair of red buttons. Once the flow rate is chosen and the syringe is set into its starting position the syringe can be turned on by pressing the smallest red button on the enclosure. The syringe will turn off once the carriage hits the limit switch that is on the front support underneath the barrel flange. 
+
+## Interactive CAD Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/g/projects/20220916557357901/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uWDk5MEFzZUtUN0NrZnU4T3UxSmtGdw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOjJNUkpTN1R0U0VxSUFnWVhoaXlwc0E/overview" width ="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ## Arduino Code
   [Arduino Code Ex. 1](/DF2100_Syringe_Pump_Project.ino)
