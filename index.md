@@ -17,5 +17,4 @@ feature_row:
   
 ---
 
-{% include feature_row %}
 
