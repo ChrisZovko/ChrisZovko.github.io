@@ -32,3 +32,4 @@
 
 ## Arduino Code
   [Arduino Code Ex. 1](/DF2100_Syringe_Pump_Project.ino)
+  [Arduino Code Ex. 2](/extraCredit.ino)
