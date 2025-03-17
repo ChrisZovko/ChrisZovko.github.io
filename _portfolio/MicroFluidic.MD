@@ -36,8 +36,6 @@ sorting?
 
 ## Interactive CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a460390ca15d5c3379?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 ## Arduino Code
   [Arduino Code Ex. 1](/DF2100_Syringe_Pump_Project.ino)
   [Arduino Code Ex. 2](/extraCredit.ino)
