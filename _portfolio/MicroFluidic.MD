@@ -1,7 +1,19 @@
 ---
-title: "Syringe Pump"
-excerpt: "DIY Syringe Pump made using CAD, and Arduino!"
+title: "Microfluidic Device"
+excerpt: "Change this"
 header:
+  image: /assets/img/Device_Assembly.jpg
+  teaser: /assets/img/Teaser.jpg
+gallery:
+  - url: /assets/img/Mold_Photo.jpg
+    image_path: /assets/img/Mold_Photo.jpg
+    alt: "3D printed mold image"
+  - url: /assets/img/Final_Device.jpg
+    image_path: /assets/img/Final_Device.jpg
+    alt: "final device image"
+  - url: /assets/img/Channel_Diagram.png
+    image_path: /assets/img/Channel_Diagram.png
+    alt: "channel geometry visualization"
  
 gallery:
  
