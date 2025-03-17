@@ -83,6 +83,8 @@ og_image                 :
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles 
+    - "https://www.linkedin.com/in/christopher-zovko-58b29229a/"
 
 
 # Analytics
@@ -100,9 +102,17 @@ author:
   bio              : "Human and Organizational Development Student at Vanderbilt University"
   location         : "Nashville, TN"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/christopher-zovko-58b29229a/"
     
 
 # Site Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/christopher-zovko-58b29229a/"
 
 
 
