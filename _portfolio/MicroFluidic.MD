@@ -2,11 +2,9 @@
 title: "Syringe Pump"
 excerpt: "DIY Syringe Pump made using CAD, and Arduino!"
 header:
-  image: /assets/img/Screenshot 2025-01-21 015922.png
-  teaser: /assets/img/Screenshot 2025-01-21 015922.png
+ 
 gallery:
-  - url: /assets/img/Screenshot 2025-01-21 015922.png
-    image_path: /assets/img/Screenshot 2025-01-21 015922.png
+ 
 ---
 
 ## Introduction
@@ -37,5 +35,3 @@ sorting?
 ## Interactive CAD Model
 
 ## Arduino Code
-  [Arduino Code Ex. 1](/DF2100_Syringe_Pump_Project.ino)
-  [Arduino Code Ex. 2](/extraCredit.ino)
