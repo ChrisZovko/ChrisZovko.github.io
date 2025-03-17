@@ -16,5 +16,5 @@ feature_row:
     excerpt: "Built to deliver precise amounts of fluid at specific flow rates."
   
 ---
-
+{% include feature_row %}
 
