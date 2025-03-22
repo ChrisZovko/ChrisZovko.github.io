@@ -4,18 +4,29 @@ excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
   image: assets/img/Final_Device_image.jpg
   teaser: assets/img/Final_Device_image.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  caption: "Pinch Flow Fractionation Device"
 gallery:
   - url: assets/img/Best_Testing_Image.jpg
     image_path: assets/img/Best_Testing_Image.jpg
     alt: "Best testing results"
+    title: "Device Testing Results"
   - url: /assets/img/Birdseye_image_2.jpg
     image_path: /assets/img/Birdseye_image_2.jpg
     alt: "Final device image"
+    title: "Final Assembled Device"
   - url: assets/img/Mold Picture.jpg
     image_path: assets/img/Mold Picture.jpg
     alt: "CAD Mold"
+    title: "3D Printed Mold"
 toc: true
 toc_sticky: true
+toc_label: "Device Overview"
+toc_icon: "microscope"
+classes:
+  - wide
+  - text-justify
 ---
 
 ## Introduction
@@ -32,7 +43,7 @@ The cells and fluid coincide within a pinched channel where the fluid pushes the
 
 Morijiri et al. (2011) used pinch flow fractionation to separate cells based on size and density. This technological development allows for the separation of blood cells to identify disease early on by capturing abnormal cells within a patient's blood.
 
-{% include gallery caption="Images of the microfluidic device at various stages of development." %}
+{% include gallery caption="Images of the final device, testing, and demolding process." %}
 
 ## Device Design and Fabrication
 
@@ -111,4 +122,18 @@ A key future improvement would be to create a device where every outlet path is 
 ## Interactive CAD Model
 <div class="responsive-embed">
   <iframe src="https://a360.co/4bNS3aN" width="100%" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+</div>
+
+---
+
+<div class="notice--info">
+  <h4>Technical Specifications:</h4>
+  <ul>
+    <li>Pinch section width: Optimized for particle alignment</li>
+    <li>Broad section width: 20× the pinch section width</li>
+    <li>Small particle trajectory: 16.7 mm above bottom</li>
+    <li>Large particle trajectory: 11.667 mm above bottom</li>
+    <li>Outlet resistance value: 16 (consistent across all channels)</li>
+    <li>Outlet spacing: 11 mm between barb outlets</li>
+  </ul>
 </div>
