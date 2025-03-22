@@ -34,7 +34,37 @@ hypothetical applications of your microfluidic mixer or sorter?
 * Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
 outlet width, location of ports, etc.)
 SORTING CONDITIONS
-There are several important conditions for making a microfluidic device ideal for sorting particles of different sizes. First, the pinch section need to be properly sized. Second the ratio between the pinch and broad section needs to be sufficiently large. Third, the openings of the outlet paths needs to be properly positioned for each particle sizes. Fourth, each outlet path must have the same resistance. In order to achieve all of these conditions I purposely dimensioned every section of the device to meet these requirements. 
+There are several important conditions for making a microfluidic device ideal for sorting particles of different sizes. First, the pinch section need to be properly sized. Second the ratio between the pinch and broad section needs to be sufficiently large. Third, the openings of the outlet paths needs to be properly positioned for each particle sizes. Fourth, each outlet path must have the same resistance. In order to achieve all of these conditions I purposely dimensioned every section of the device to meet these requirements.
+
+### Particle Trajectory Calculations
+The trajectory of particles in pinch flow fractionation can be calculated using the standard PFF trajectory formula:
+
+$y = \frac{r_p + w_p/2}{w_p} \cdot w_b$
+
+Where:
+* $y$ is the center position of the particle in the broad section
+* $r_p$ is the radius of the particle
+* $w_p$ is the width of the pinch section
+* $w_b$ is the width of the broad section
+
+Using this formula, I calculated that small particles would enter the broad section at a position of 16.7 mm above the bottom, while large particles would enter at 11.667 mm above the bottom. The outlet channels were then positioned precisely at these calculated trajectories to ensure proper separation.
+
+### Flow Resistance Design
+To ensure that each outlet received the same flow rate, I applied the principle of equivalent hydraulic resistance across all outlet channels. The basic formula for flow resistance in microfluidic channels is:
+
+$R = \frac{12\mu L}{wh^3(1-0.63\frac{h}{w})}$
+
+Where:
+* $R$ is the hydraulic resistance
+* $\mu$ is the fluid viscosity
+* $L$ is the channel length
+* $w$ is the channel width
+* $h$ is the channel height
+
+All outlets were designed to have the same resistance value of 16, preventing disruptions to the streamlines and maintaining proper separation. This was achieved by carefully adjusting the length and cross-sectional dimensions of each outlet channel.
+
+### Enhanced Design Features
+My design incorporates a longer pinch section than typically used in PFF devices, which improves particle separation by allowing more time for particles to align against the channel wall before entering the broad section. This modification enhances the sorting efficiency and precision of the device.
 
 What steps or design features did you use to ensure that each outlet received the same
 flow rate, preventing disruptions to the streamlines and maintaining proper separation?
