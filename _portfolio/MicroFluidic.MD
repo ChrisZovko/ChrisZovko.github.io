@@ -7,39 +7,61 @@ header:
 gallery:
   - url: assets/img/Best_Testing_Image.jpg
     image_path: assets/img/Best_Testing_Image.jpg
+    alt: "Best testing results"
   - url: /assets/img/Final_Device.jpg
     image_path: /assets/img/Final_Device.jpg
-    alt: "final device image"
+    alt: "Final device image"
   - url: assets/img/Mold Picture.jpg
     image_path: assets/img/Mold Picture.jpg
     alt: "CAD Mold"
+toc: true
+toc_sticky: true
 ---
+
 ## Introduction
-  Microfluidic devices are small chips created to sort, mix, and perform other functions on liquids at very small scales. Channel widths inside a microfluidic device can be as small as 60 micrometers which is smaller than a human hair. One application for microfluidic devices is the sorting of particles based on density or size using pinch flow fractionation. Pinch flow fractionation devices work by leveraging different channel and particle sizes to determine the trajectory that particles will take to get to output channels. Devices consistent of two inlets; cells enter through one inlet while a sheath fluid(a fluid used to align cells) enters through the second inlet. The cells and fluid coincide within a pinched channel where the fluid pushes the cells against the upper wall of the channel. Along the upper wall the cells begin to separate by size with larger particles sorting themselves below ones. At the of the pinched channel the materials enter a wide section where the cells divde themselves by trajectory and are sorting by entering the correct output channel that is positioned at the trajectory of each particle size. Morijiri et al.(2011) used pinch flow fractionation to separate cells based on size and density this technological development allows for the separation of blood cells to identify disease early on by capturing abnormal cells within a patients blood. 
 
+Microfluidic devices are small chips created to sort, mix, and perform other functions on liquids at very small scales. Channel widths inside a microfluidic device can be as small as 60 micrometers, which is smaller than a human hair. 
 
-## Instructions
-  * How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
-the following steps but with additional detail:
-The first step in the process of creating a microfluidic device is to design the CAD model. A microfluidic device has several compoenents: inlets, pinch section, broad section, outlets. For this PFF device there were a constraints that were applied. First, no features of the model could be smaller than THIS SMALL to avoid issues when demolding the device. Second, the ratio of the pinch section to the broad section needed to be 1:20. Third, all the outlet paths needed to have the same resistance so that the flow rate was equal throughout the broad section and outlets. 
-  * CAD model
-  * Print and cure mold
-  * Parylene device
-  * Cast PDMS
-  * Plasma bond glass slide
+One application for microfluidic devices is the sorting of particles based on density or size using pinch flow fractionation (PFF). PFF devices work by leveraging different channel and particle sizes to determine the trajectory that particles will take to reach output channels. 
 
-## Discussion 
-  Why are resin-printed molds coated with parylene prior to casting the PDMS? What are
-hypothetical applications of your microfluidic mixer or sorter?
-* Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
-outlet width, location of ports, etc.)
-SORTING CONDITIONS
-There are several important conditions for making a microfluidic device ideal for sorting particles of different sizes. First, the pinch section need to be properly sized. Second the ratio between the pinch and broad section needs to be sufficiently large. Third, the openings of the outlet paths needs to be properly positioned for each particle sizes. Fourth, each outlet path must have the same resistance. In order to achieve all of these conditions I purposely dimensioned every section of the device to meet these requirements.
+These devices consist of two inlets:
+1. Cells enter through one inlet
+2. A sheath fluid (used to align cells) enters through the second inlet
+
+The cells and fluid coincide within a pinched channel where the fluid pushes the cells against the upper wall of the channel. Along the upper wall, the cells begin to separate by size with larger particles sorting themselves below smaller ones. At the end of the pinched channel, the materials enter a wide section where the cells divide themselves by trajectory and are sorted by entering the correct output channel positioned at the trajectory of each particle size.
+
+Morijiri et al. (2011) used pinch flow fractionation to separate cells based on size and density. This technological development allows for the separation of blood cells to identify disease early on by capturing abnormal cells within a patient's blood.
+
+{% include gallery caption="Images of the microfluidic device at various stages of development." %}
+
+## Device Design and Fabrication
+
+### CAD Model Development
+The first step in creating a microfluidic device is designing the CAD model. A microfluidic device has several components:
+- Inlets
+- Pinch section
+- Broad section
+- Outlets
+
+For this PFF device, several constraints were applied:
+1. No features could be smaller than a minimum size to avoid issues when demolding the device
+2. The ratio of the pinch section to the broad section needed to be 1:20
+3. All outlet paths needed to have the same resistance so that the flow rate was equal throughout the broad section and outlets
+
+### Fabrication Process
+The device fabrication followed these key steps:
+* CAD model design
+* 3D printing and curing of the mold
+* Parylene coating of the mold
+* Casting PDMS
+* Plasma bonding to a glass slide
+
+## Particle Separation Mechanics
 
 ### Particle Trajectory Calculations
 The trajectory of particles in pinch flow fractionation can be calculated using the standard PFF trajectory formula:
 
-$y = \frac{r_p + w_p/2}{w_p} \cdot w_b$
+$$y = \frac{r_p + w_p/2}{w_p} \cdot w_b$$
 
 Where:
 * $y$ is the center position of the particle in the broad section
@@ -52,7 +74,7 @@ Using this formula, I calculated that small particles would enter the broad sect
 ### Flow Resistance Design
 To ensure that each outlet received the same flow rate, I applied the principle of equivalent hydraulic resistance across all outlet channels. The basic formula for flow resistance in microfluidic channels is:
 
-$R = \frac{12\mu L}{wh^3(1-0.63\frac{h}{w})}$
+$$R = \frac{12\mu L}{wh^3\left(1-0.63\frac{h}{w}\right)}$$
 
 Where:
 * $R$ is the hydraulic resistance
@@ -66,11 +88,28 @@ All outlets were designed to have the same resistance value of 16, preventing di
 ### Enhanced Design Features
 My design incorporates a longer pinch section than typically used in PFF devices, which improves particle separation by allowing more time for particles to align against the channel wall before entering the broad section. This modification enhances the sorting efficiency and precision of the device.
 
-What steps or design features did you use to ensure that each outlet received the same
-flow rate, preventing disruptions to the streamlines and maintaining proper separation?
-* Based on the results of testing, could you implement any future changes to improve
-sorting?
+## Discussion
 
+### Parylene Coating
+Resin-printed molds are coated with parylene prior to casting PDMS for several important reasons:
+1. It creates a barrier between the potentially toxic resin and the PDMS
+2. It improves the surface properties for PDMS demolding
+3. It prevents chemicals from the resin leaching into the microfluidic channels
+4. It provides a more uniform and smooth surface for better channel formation
+
+### Sorting Mechanism
+The geometry of this device is specifically optimized for sorting through these key design elements:
+1. **Precise pinch width**: The narrow pinch section ensures particles align properly against the wall
+2. **Optimal expansion ratio**: The 1:20 ratio between pinch and broad sections creates sufficient space for particle trajectories to diverge
+3. **Strategic outlet positioning**: Outlets are placed at calculated positions (16.7 mm and 11.667 mm) that correspond to different particle sizes
+4. **Balanced flow resistance**: All outlet paths have equal resistance (value of 16) to maintain stable flow conditions
+
+### Future Improvements
+Based on testing results, several potential improvements could enhance sorting performance:
+1. Further refinement of the pinch section length for better separation
+2. Optimization of flow rates to improve throughput while maintaining separation efficiency
+3. Addition of more outlet channels to accommodate a wider range of particle sizes
+4. Implementation of surface treatments to reduce particle adhesion to channel walls
 
 ## Interactive CAD Model
 <div class="responsive-embed">
