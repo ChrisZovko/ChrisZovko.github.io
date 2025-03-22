@@ -2,11 +2,19 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
-  image: assets/img/Great final device image.heic
-  teaser:  assets/img/Great final device image.heic
+  image: img
+/Final_Device_image.jpg
+
+  teaser:  img
+/Final_Device_image.jpg
+
 gallery:
-  - url: assets/img/Best Testing Image.HEIC
-    image_path: assets/img/Best Testing Image.HEIC
+  - url: assets/img
+/Best_Testing_Image.jpg
+
+    image_path: assets/img
+/Best_Testing_Image.jpg
+
     alt: "Device Testing Example"
   - url: /assets/img/Final_Device.jpg
     image_path: /assets/img/Final_Device.jpg
