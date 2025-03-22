@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
-  image: /assets/img/Device_Assembly.jpg
-  teaser: /assets/img/Teaser.jpg
+  image: assets/img/Mold Picture (1).jpg
+  teaser:  assets/img/Mold Picture (1).jpg
 gallery:
   - url: /assets/img/Mold_Photo.jpg
     image_path: /assets/img/Mold_Photo.jpg
