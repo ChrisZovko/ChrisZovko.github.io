@@ -19,29 +19,30 @@ gallery:
 
 
 ## Instructions
-  • How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
+  * How to go from the 3D printed mold to the final device (Lab on a Chip paper). Include
 the following steps but with additional detail:
 The first step in the process of creating a microfluidic device is to design the CAD model. A microfluidic device has several compoenents: inlets, pinch section, broad section, outlets. For this PFF device there were a constraints that were applied. First, no features of the model could be smaller than THIS SMALL to avoid issues when demolding the device. Second, the ratio of the pinch section to the broad section needed to be 1:20. Third, all the outlet paths needed to have the same resistance so that the flow rate was equal throughout the broad section and outlets. 
-o CAD model
-o Print and cure mold
-o Parylene device
-o Cast PDMS
-o Plasma bond glass slide
+  * CAD model
+  * Print and cure mold
+  * Parylene device
+  * Cast PDMS
+  * Plasma bond glass slide
 
 ## Discussion 
   Why are resin-printed molds coated with parylene prior to casting the PDMS? What are
 hypothetical applications of your microfluidic mixer or sorter?
-• Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
+* Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width,
 outlet width, location of ports, etc.)
 SORTING CONDITIONS
 There are several important conditions for making a microfluidic device ideal for sorting particles of different sizes. First, the pinch section need to be properly sized. Second the ratio between the pinch and broad section needs to be sufficiently large. Third, the openings of the outlet paths needs to be properly positioned for each particle sizes. Fourth, each outlet path must have the same resistance. In order to achieve all of these conditions I purposely dimensioned every section of the device to meet these requirements. 
 
 What steps or design features did you use to ensure that each outlet received the same
 flow rate, preventing disruptions to the streamlines and maintaining proper separation?
-• Based on the results of testing, could you implement any future changes to improve
+* Based on the results of testing, could you implement any future changes to improve
 sorting?
 
 
 ## Interactive CAD Model
-
-
+<div class="responsive-embed">
+  <iframe src="https://a360.co/4bNS3aN" width="100%" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+</div>
