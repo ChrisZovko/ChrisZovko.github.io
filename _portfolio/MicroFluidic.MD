@@ -51,10 +51,21 @@ For this PFF device, several constraints were applied:
 ### Fabrication Process
 The device fabrication followed these key steps:
 * CAD model design
+  -A model designed in Fusion 360 made to be used as a mold for PDMS to be applied to later in the process
 * 3D printing and curing of the mold
+  -Using resin vat polymerization the CAD model is turned into a physical model
+  -The resin model is cured using UV light, washed in alcohol, and then heat treated 
 * Parylene coating of the mold
+  -A parylene coating is applied to the resin model 
+  -There are two benefits to the parylene coating
+    -Creates a non-stick surface that makes it easy to remove the PDMS cast 
+    -Improves the smoothness of the surfaces, leading to a better final product
 * Casting PDMS
+  -Polydimethylsiloxane(PDMS) is a sillicone based material that is used to make microfluidic devives
+  -PDMS is carefully poured over the parylene coated resin mold to create a cast of the final device
+  -Must be carefully removed to ensure final device integrity
 * Plasma bonding to a glass slide
+  -The device is plasma bonded to a microscope glass to provide a flat surface and allow a viewing window
 
 ## Particle Separation Mechanics
 
