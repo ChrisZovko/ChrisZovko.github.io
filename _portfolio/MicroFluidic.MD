@@ -2,12 +2,12 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
-  image: assets/img/Mold Picture (1).jpg
-  teaser:  assets/img/Mold Picture (1).jpg
+  image: assets/img/Great final device image.heic
+  teaser:  assets/img/Great final device image.heic
 gallery:
-  - url: /assets/img/Mold_Photo.jpg
-    image_path: /assets/img/Mold_Photo.jpg
-    alt: "3D printed mold image"
+  - url: assets/img/Best Testing Image.HEIC
+    image_path: assets/img/Best Testing Image.HEIC
+    alt: "Device Testing Example"
   - url: /assets/img/Final_Device.jpg
     image_path: /assets/img/Final_Device.jpg
     alt: "final device image"
