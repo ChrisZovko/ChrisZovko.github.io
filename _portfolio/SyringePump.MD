@@ -1,9 +1,9 @@
 ---
-title: "Microfluidic Device"
-excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
+title: "Syringe Pump"
+excerpt: "DIY Syringe Pump used for distributing small volumes of liquid at a desired rate"
 header:
-  image: assets/img/Final_Device_image.jpg
-  teaser: assets/img/Final_Device_image.jpg
+  image: /assets/img/Screenshot 2025-01-20 182627.png
+  teaser: /assets/img/Screenshot 2025-01-20 182627.png
 gallery:
   - url: assets/img/Best_Testing_Image.jpg
     image_path: assets/img/Best_Testing_Image.jpg
