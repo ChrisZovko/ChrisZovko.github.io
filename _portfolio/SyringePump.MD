@@ -1,14 +1,19 @@
 ---
-title: "Syringe Pump"
-excerpt: "DIY Syringe Pump made using CAD, and Arduino!"
+title: "Microfluidic Device"
+excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
-  image: /assets/img/Screenshot 2025-01-21 015922.png
-  teaser: /assets/img/Screenshot 2025-01-21 015922.png
+  image: assets/img/Final_Device_image.jpg
+  teaser: assets/img/Final_Device_image.jpg
 gallery:
-  - url: /assets/img/Screenshot 2025-01-21 015922.png
-    image_path: /assets/img/Screenshot 2025-01-21 015922.png
+  - url: assets/img/Best_Testing_Image.jpg
+    image_path: assets/img/Best_Testing_Image.jpg
+  - url: /assets/img/Final_Device.jpg
+    image_path: /assets/img/Final_Device.jpg
+    alt: "final device image"
+  - url: assets/img/Mold Picture.jpg
+    image_path: assets/img/Mold Picture.jpg
+    alt: "CAD Mold"
 ---
-
 ## Syringe Purpose and Features
   The purpose of the syringe pump device is to provide precise volumes of fluid at various flow rates. On the pump there is an LCD display which shows the selected flow rate based on the inputs from the potentiometer. The pump also as the option to adjust the position of the syringe using buttons that rotate the motor clockwise or coutner-clockwise. 
 
