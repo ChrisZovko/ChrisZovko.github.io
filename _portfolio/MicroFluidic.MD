@@ -8,8 +8,8 @@ gallery:
   - url: assets/img/Best_Testing_Image.jpg
     image_path: assets/img/Best_Testing_Image.jpg
     alt: "Best testing results"
-  - url: /assets/img/Final_Device.jpg
-    image_path: /assets/img/Final_Device.jpg
+  - url: /assets/img/Birdseye_image_2.jpg
+    image_path: /assets/img/Birdseye_image_2.jpg
     alt: "Final device image"
   - url: assets/img/Mold Picture.jpg
     image_path: assets/img/Mold Picture.jpg
@@ -103,13 +103,10 @@ The geometry of this device is specifically optimized for sorting through these 
 2. **Optimal expansion ratio**: The 1:20 ratio between pinch and broad sections creates sufficient space for particle trajectories to diverge
 3. **Strategic outlet positioning**: Outlets are placed at calculated positions (16.7 mm and 11.667 mm) that correspond to different particle sizes
 4. **Balanced flow resistance**: All outlet paths have equal resistance (value of 16) to maintain stable flow conditions
+5. **Outlet Distance**: All outlet must be 11mm apart from each other at their ends so that the barb outlets fit properly on the device
 
 ### Future Improvements
-Based on testing results, several potential improvements could enhance sorting performance:
-1. Further refinement of the pinch section length for better separation
-2. Optimization of flow rates to improve throughput while maintaining separation efficiency
-3. Addition of more outlet channels to accommodate a wider range of particle sizes
-4. Implementation of surface treatments to reduce particle adhesion to channel walls
+A key future improvement would be to create a device where every outlet path is equal in length and resistance. This was not possible for this project due to size constraints that made it very difficult to create a device with equal channels that did not cause other issues(for example bubbles developing around corners). In a device where every channel is equal in size then it is much more likely that the channels will experience equal flow which significantly improves the quality of the devices output. 
 
 ## Interactive CAD Model
 <div class="responsive-embed">
