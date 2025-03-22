@@ -4,6 +4,7 @@ excerpt: "Microfluidic device: uses pinch flow fractionation to separate cells"
 header:
   image: assets/img/Final_Device_image.jpg
 
+
   teaser:  assets/img/Final_Device_image.jpg
 
 gallery:
@@ -12,13 +13,15 @@ gallery:
     image_path: assets/img/Best_Testing_Image.jpg
 
     alt: "Device Testing Example"
-  - url: /assets/img/Final_Device.jpg
+ 
+- url: /assets/img/Final_Device.jpg
     image_path: /assets/img/Final_Device.jpg
     alt: "final device image"
-  - url: /assets/img/Channel_Diagram.png
-    image_path: /assets/img/Channel_Diagram.png
-    alt: "channel geometry visualization"
- 
+
+- url: assets/img/Mold Picture.jpg
+    image_path: assets/img/Mold Picture.jpg
+    alt: "CAD Mold"
+  
 gallery:
  
 ---
