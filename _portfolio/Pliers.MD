@@ -45,7 +45,7 @@ The next major challenge was to develop the pliers in a way that would allow the
 There still remains very small air gaps in the final model. However, I believe these are an issue with how the teeth were modeled onto the claws. Since I filled in the material under the plier tips, the sides of claws are slanted in different ways. This made it very difficult to model teeth that would completely fit in together.
 
 <!-- Insert final design image here: /assets/img/final_design.jpg -->
-Relevant Specifications
+Relevant Specifications 
 
 Claw Length: 100mm
 Centerpiece Size: 40mm x 40mm
