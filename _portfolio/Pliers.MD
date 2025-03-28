@@ -14,6 +14,9 @@ alt: "Second Iteration Open"
 url: /assets/img/OpenFinal.jpg
 image_path: /assets/img/OpenFinal.jpg
 alt: "Final Pliers Open"
+url: assets/img/IMG_1188 (1).gif
+image_path: assets/img/IMG_1188 (1).gif
+alt: "Plier GIF"
 toc: true
 toc_sticky: true
 
@@ -23,7 +26,7 @@ toc_sticky: true
 Print in place parts are one method of creating models that have movable parts. The advantage of print in place is that it can all be done in one print and you do not need to piece together smaller parts. This method is useful for creating joints such as hinges or gears. One common use of print in place is to create a spring loaded box. Spring loaded boxes use a gear shaped mechanism to 'spring' the lid of the box open. In general, print in place is effective for models that require joints and flexible movements within your model.
 
 ##Interactive CAD Model
-<iframe src="YOUR_CAD_MODEL_LINK_HERE" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+<iframe src="https://a360.co/41PBXds" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 ###Device Design
 
@@ -35,16 +38,16 @@ Iterative Process
 There were several models made in order to develop the final model. The specific challenges with developing the model were sizing, closing the pliers, and having a sturdy connection between the TPU centerpiece and the PLA claws plus handles.
 My first model was too small and too thin. Specifically, the side lengths of the centerpiece were only 20mm while the thickness was 4mm. This model was ineffective because the size of the centerpiece meant the trapezoid joints that connected the pieces were too small. Since the joints were too small the pieces of the pliers could not stay attached to the centerpiece.
 
-<!-- Insert first iteration image here: /assets/img/iteration1.jpg -->
+
 
 For the final model the centerpiece side lengths were changed to 40mm and the thickness of the pliers was increased to 7.5mm. This sizing allowed for a sturdy centerpiece that allows for a significant amount of force to be applied to the device. Another piece of the centerpiece that is important is the tolerance between it and the PLA parts. The final tolerance of the model is .1mm. However, I think that it would be better if the tolerance was slightly smaller and the thickness of the pliers also increased. Increasing the thickness and decreasing the tolerance could help the claws align better when picking items up.
-<!-- Insert second iteration image here: /assets/img/iteration2.jpg --> 
+
 
 The next major challenge was to develop the pliers in a way that would allow the claws to completely shut. My first model had claws that did not completely close and instead touched at the tips of the claws. There are different methods for solving this issue and I chose to do it by adding additional material to each claw that would close the air gap created beneath the tips of the plier ends. This method ended up being quite effective and with the addition of the teeth to the plier claws items are able to be picked up easily.
 
 There still remains very small air gaps in the final model. However, I believe these are an issue with how the teeth were modeled onto the claws. Since I filled in the material under the plier tips, the sides of claws are slanted in different ways. This made it very difficult to model teeth that would completely fit in together.
 
-<!-- Insert final design image here: /assets/img/final_design.jpg -->
+
 Relevant Specifications 
 
 Claw Length: 100mm
