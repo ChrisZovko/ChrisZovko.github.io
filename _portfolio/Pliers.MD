@@ -1,19 +1,19 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-Material Pliers made of PLA and TPU"
 header:
-image: assets/img/Final_Device_image.jpg
-teaser: assets/img/Final_Device_image.jpg
+image: assets/img/ClosedFinals.jpg
+teaser: assets/img/ClosedFinals.jpg
 gallery:
 
-url: assets/img/Best_Testing_Image.jpg
-image_path: assets/img/Best_Testing_Image.jpg
-alt: "Best testing results"
-url: /assets/img/Birdseye_image_2.jpg
-image_path: /assets/img/Birdseye_image_2.jpg
-alt: "Final device image"
-url: assets/img/Mold Picture.jpg
-image_path: assets/img/Mold Picture.jpg
-alt: "CAD Mold"
+url: /assets/img/ClosedFirstIt.jpg
+image_path: /assets/img/ClosedFirstIt.jpg
+alt: "First Iteration Closed"
+url: /assets/img/OpenSecond.jpg
+image_path: /assets/img/OpenSecond.jpg
+alt: "Second Iteration Open"
+url: /assets/img/OpenFinal.jpg
+image_path: /assets/img/OpenFinal.jpg
+alt: "Final Pliers Open"
 toc: true
 toc_sticky: true
 
