@@ -24,7 +24,7 @@ toc_sticky: true
 # Introduction: What are print in place parts?
 This project is a set of pliers made of PLA for the claws and handles with a flexible TPU centerpiece to allow the claws to close when used. The pliers were developed to pick up a resistor, which it is capable of, and other small items. My version of the pliers are quite large and are able to clamp onto and hold items such as pencils or cords. To design the pliers I used a print in place method where interlocking trapezoids were used to hold pieces together.
 
-Print in place parts are one method of creating models that have movable parts. The advantage of print in place is that it can all be done in one print and you do not need to piece together smaller parts. This method is useful for creating joints such as hinges or gears. One common use of print in place is to create a spring loaded box. Spring loaded boxes use a gear shaped mechanism to 'spring' the lid of the box open. In general, print in place is effective for models that require joints and flexible movements within your model.
+Print in place parts are one method of creating models that have movable parts. The advantage of print in place is that it can all be done in one print and you do not need to piece together smaller parts. This method is useful for creating joints such as hinges or gears. One common use of print in place is to create a spring loaded box. Spring loaded boxes use a gear shaped mechanism to 'spring' the lid of the box open. In general, print in place is effective for models that require joints and flexible movements within your model. 
 
 # Interactive CAD Model
 <div class="embed-container">
