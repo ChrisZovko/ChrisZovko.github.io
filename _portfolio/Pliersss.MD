@@ -43,16 +43,17 @@ There were several models made in order to develop the final model. The specific
 
 My first model was too small and too thin. Specifically, the side lengths of the centerpiece were only 20mm while the thickness was 4mm. This model was ineffective because the size of the centerpiece meant the trapezoid joints that connected the pieces were too small. Since the joints were too small the pieces of the pliers could not stay attached to the centerpiece.
 
-
+![First Iteration]({{ site.baseurl }}/assets/img/ClosedFirstIt.jpg)
 
 For the final model the centerpiece side lengths were changed to 40mm and the thickness of the pliers was increased to 7.5mm. This sizing allowed for a sturdy centerpiece that allows for a significant amount of force to be applied to the device. Another piece of the centerpiece that is important is the tolerance between it and the PLA parts. The final tolerance of the model is .1mm. However, I think that it would be better if the tolerance was slightly smaller and the thickness of the pliers also increased. Increasing the thickness and decreasing the tolerance could help the claws align better when picking items up.
 
-
+![Second Iteration]({{ site.baseurl }}/assets/img/OpenSecond.jpg)
 
 The next major challenge was to develop the pliers in a way that would allow the claws to completely shut. My first model had claws that did not completely close and instead touched at the tips of the claws. There are different methods for solving this issue and I chose to do it by adding additional material to each claw that would close the air gap created beneath the tips of the plier ends. This method ended up being quite effective and with the addition of the teeth to the plier claws items are able to be picked up easily.
 
 There still remains very small air gaps in the final model. However, I believe these are an issue with how the teeth were modeled onto the claws. Since I filled in the material under the plier tips, the sides of claws are slanted in different ways. This made it very difficult to model teeth that would completely fit in together.
 
+![Final Design]({{ site.baseurl }}/assets/img/OpenFinal.jpg)
 
 ## Relevant Specifications
 - **Claw Length**: 100mm
@@ -63,12 +64,12 @@ There still remains very small air gaps in the final model. However, I believe t
 - **Claw Teeth Size**: Isosceles Triangles 1.8mm, 1.8mm, and base of 2mm
 
 # Print Settings
-There were no unique changes to the print setings for this project. Standard settings for 95A TPU and PLA were used. 
+There were no unique changes to the print setings for this project. Standard settings for 95A TPU and PLA were used.
 
 # Demonstration
 Below is a demonstration of the pliers picking up a resistor:
 
-
+![Pliers in Action]({{ site.baseurl }}/assets/img/IMG_1188 (1).gif)
 
 # Gallery
 {% include gallery caption="Images of the final multi-material pliers" %}
