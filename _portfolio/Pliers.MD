@@ -64,11 +64,7 @@ There still remains very small air gaps in the final model. However, I believe t
 - **Claw Teeth Size**: Isosceles Triangles 1.8mm, 1.8mm, and base of 2mm
 
 # Print Settings
-- **Layer Height**: 0.15mm
-- **Infill**: 35% for PLA parts, 25% for TPU centerpiece
-- **Print Speed**: 45mm/s for PLA, 25mm/s for TPU
-- **Nozzle Temperature**: 210°C for PLA, 225°C for TPU
-- **Bed Temperature**: 60°C
+
 
 # Demonstration
 Below is a demonstration of the pliers picking up a resistor:
