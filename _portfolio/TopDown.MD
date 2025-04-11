@@ -86,60 +86,19 @@ The design process was very direct with my initial design being the concept that
 
 ![Final design]({{ site.baseurl }}/assets/img/final_design.jpg)
 
-## Detailed Specifications
-- **Handlebar Compatibility**: 22-31.8mm diameter
-- **Phone Size Accommodation**: 65-95mm width
-- **Weight Capacity**: 350g
-- **Rotation Angles**: 0° (portrait) and 90° (landscape)
-- **Materials**: PLA, PETG, TPU
-- **Hardware**: 
-  - 4× M5×25mm bolts
-  - 4× M5 heat-set inserts
-  - 2× M3×10mm bolts
-  - 2× M3 heat-set inserts
-  - 1× 5mm ball bearing
-  - 1× Compression spring (4mm OD, 15mm length)
 
 # Manufacturing Method
 
 ## 3D Printing Technology Selection
 
-### FDM Printing (Fused Deposition Modeling)
-I used FDM printing for most components due to:
-- Accessibility and cost-effectiveness
-- Sufficient strength for the application
-- Ability to use different materials for different functional requirements
-- Easy post-processing for heat-set insert installation
-
-### Material Selection Rationale
-- **PETG** for the handlebar clamp: Weather-resistant, UV-stable, and has excellent toughness for outdoor use
-- **PLA** for the rotation mechanism and phone cradle: Provides good dimensional accuracy and rigidity
-- **TPU** for vibration damping elements: Offers flexibility and shock absorption
-
-## Print Settings
-- **Layer Height**: 0.2mm for most parts, 0.12mm for detailed features
-- **Infill**: 40% gyroid pattern for structural components
-- **Perimeters**: 3 for strength
-- **Supports**: Generated only where necessary, with 10% density
-- **Print Orientation**: Optimized to minimize supports and maximize strength along load-bearing axes
+Standard filament printing using TPU and PLA was used for this project. There were options to SLS print, however that was unecessary for my design because there were no parts that were so thin that they would break. This method was used for every parts of the print because it was the most accessible, provided all structural functions that the model needed, and could provide a variety of materials. 
 
 ![Cross-section view of internal rotation mechanism]({{ site.baseurl }}/assets/img/cross_section.jpg)
 
 # Assembly Instructions
 
-1. Install M5 heat-set inserts into the handlebar clamp base using a soldering iron
-2. Install M3 heat-set inserts into the rotation mechanism housing
-3. Insert the ball bearing and compression spring into the designated cavity
-4. Assemble the rotation mechanism by connecting the detent plate to the housing with M3 bolts
-5. Attach the phone cradle to the rotation mechanism
-6. Mount the assembled unit to the handlebar clamp
-7. Secure the clamp to the handlebar using M5 bolts
+The assembly is very straight forward. First insert the ball and spring to the bottom detent component; insert the centerpiece of the detent; place the top detent piece on the prior two. Once those first steps are done the detent mechanism is screwed to the phone and the entire thing is then screwed to the bike grip. To use the device, simply slide your phone in from the top of the phone case and slide the bike grip onto your bike handle. If needed the screws on the bike grip can be loosened to help slide it onto the handles then tightened once properly positioned. To use the detent, first ensure the grip is attached to the handles then turn the phone case in any direction you want. My device is very sturdy so it is able to be used in rough road areas without the phone falling out or device breaking. 
 
-## Usage
-1. Open the phone cradle by pulling outward on the spring-loaded side
-2. Insert phone securely into the cradle
-3. To rotate, firmly grip phone and turn 90° until the mechanism clicks into position
-4. To remove, pull outward on the spring-loaded side of the cradle and lift phone out
 
 # Demonstration
 
