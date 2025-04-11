@@ -23,7 +23,7 @@ toc_sticky: true
 
 # Introduction: Handlebar Phone Holder
 
-This project is a rotatable phone holder designed to mount securely on bicycle handlebars. The holder allows for quick rotation between landscape and portrait orientations, making it versatile for navigation, fitness tracking, or media consumption while riding. The design incorporates 3D printed components along with standard hardware for a robust, functional mounting solution.
+This project is a rotatable phone holder designed to mount securely on bicycle handlebars. The holder allows for quick rotation between landscape and portrait orientations, making it versatile for navigation, fitness tracking, or media consumption while riding. Within the phone holder there is a detent bechanism which allows for the phone to rotate. The design is a multimaterial design, incorporating TPU and PLA parts. Moreover, the model was deisnged using top down CAD modeling. 
 
 # Interactive CAD Model
 <div class="embed-container">
@@ -34,18 +34,18 @@ This project is a rotatable phone holder designed to mount securely on bicycle h
 
 ## What is Top-Down Modeling?
 
-Top-down modeling is an approach to CAD design where the overall assembly structure is created first, and individual components are designed within the context of this assembly. This method allows components to reference other components' geometry, establishing relationships that update automatically when changes are made.
+Top-Down modeling is an approach to CAD design where every part within the larger assembly is created as a component. This allows for every component within the design to have its own extrusions and sketches designated to itself that can not be interacted with by other components. What this allows for is an entire assembly being made a joined together within one design. Overall, the methodology improves the accuracy and placement of the various components within the final model. 
 
 ## Application in This Project
 
-For this phone holder, I utilized top-down modeling by:
+For this phone holder, I utilized top-down modeling by creating several components to create the model. These are the following components:
+-Phone case
+-Detent mechanism holder
+-Detent mechanism cover
+-Detent mechanism centerpiece
+-Bike grip
 
-1. Creating a master sketch that defined the basic dimensions of the handlebar and phone
-2. Establishing key reference planes and axes for the rotation mechanism
-3. Designing individual components (clamp, rotation mechanism, phone cradle) within the context of the assembly
-4. Using derived geometry to ensure proper fit between components
-
-This approach was especially valuable when designing the clamp mechanism, as it needed to precisely match the handlebar dimensions while interfacing correctly with the rotation component. When I needed to adjust the grip angle for better ergonomics, the parametric relationships established through top-down modeling allowed all dependent components to update automatically.
+Using top-down modeling was very effective for this design because there were a variety of parts that needed to be properly aligned in order for screws to fit properly within multiple parts. The method also made it easier to build parts ontop of each other in precisely the right location.
 
 # Device Design
 
@@ -59,40 +59,30 @@ I chose a detent-based rotation mechanism using a spring-loaded ball bearing aga
 - Requires minimal force to change orientations when desired
 - Uses simple mechanical principles for reliability
 
-The rotation mechanism works well in practice, offering just enough resistance to stay in position during normal riding conditions while still allowing easy orientation changes when needed. The detent positions are set at 0° and 90° for portrait and landscape orientations.
+The mechanism works very well and makes a great click sound at each interval. My design moves at 90 degree angles which allows the user to easily move their phone from portrait to landscape mode. Detent mechanisms are very simple to design and are one of the easiest ways to incorporate rotation into a model. My detent mechanism takes up slightly to much space which is one modification I am looking to make to this project. 
 
 ### 3D Printing Considerations
 Several design modifications were necessary to account for 3D printing limitations:
 
-- Added 0.2mm clearance between moving parts to prevent fusion during printing
-- Incorporated chamfers on overhanging surfaces to reduce the need for supports
-- Split larger components to optimize print orientation and reduce support material
-- Designed heat-set insert cavities 0.1mm smaller than the insert diameter for secure post-print installation
+-Tolerances were made to ensure proper fit and reduce the impact of shrinkage from printing
+  - Added a loose tolerance of .52mm for the M5 screw holes within the model
+  - Added a loose tolerance of .82mm for the hex shaped nuts that fasten the screws
+-The phone case needed to have a slightly smaller width than expected in order for the phone to be properly compressed by the TPU
+- Used two types of filament in order to ensure that each part of the device had the necessary properties
+  - TPU was used for the phone case and bike grip so that these parts will compress around the parts put inside of them
+  - PLA was used for the parts of the detent mechanism to provide rigidity to this section of the device
 
 ### Material Selection
 Different parts required different materials based on their functional requirements:
-- Handlebar clamp: PETG for weather resistance and durability
-- Rotation mechanism: PLA for dimensional accuracy and rigidity
-- Spring housing: TPU for shock absorption and vibration dampening
+- Handlebar clamp: TPU in order to compress around the bike grip
+- Rotation mechanism: PLA for rigidity 
+- Phone case: TPU to compress around the phone for a tight fit
 
 ![CAD rendering of phone holder]({{ site.baseurl }}/assets/img/phone_holder_rendering.jpg)
 
 ## Iterative Process
 
-The design underwent several iterations to address specific challenges:
-
-### First Prototype
-The initial design used a friction-based rotation mechanism, which proved unreliable in testing. The holder would gradually shift orientation during rides over rough terrain. The clamp also had insufficient grip on the handlebar.
-
-![First prototype]({{ site.baseurl }}/assets/img/first_prototype.jpg)
-
-### Second Iteration
-In the second iteration, I redesigned the clamp to include a rubber insert for better grip and implemented the detent-based rotation system. However, the detent spring was too stiff, making orientation changes difficult.
-
-![Second iteration]({{ site.baseurl }}/assets/img/second_iteration.jpg)
-
-### Final Design
-The final design features an optimized detent system with a carefully selected spring rate and ball bearing size. The clamp now uses M5 bolts instead of M3 for more secure attachment, and I added additional rubber padding for vibration isolation.
+The design process was very direct with my initial design being the concept that I followed all the way through. This design is the most straightforward approach for designing a detent based phone holder for a bike. It requires three parts to be assemblied to form the detent. Then the detent mechanism is attached to the phone and all of these parts are attached to the bike grip. 
 
 ![Final design]({{ site.baseurl }}/assets/img/final_design.jpg)
 
