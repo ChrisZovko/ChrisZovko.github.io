@@ -1,6 +1,6 @@
 ---
-title: "Handlebar Phone Holder"
-excerpt: "Rotatable bike handlebar phone holder with 3D printed components"
+title: "Phone Holder for Bike"
+excerpt: "Rotatable bike phone holder that attaches to bike grip"
 header:
   image: assets/img/phone_holder_header.jpg
   teaser: assets/img/phone_holder_teaser.jpg
@@ -78,7 +78,7 @@ Different parts required different materials based on their functional requireme
 - Rotation mechanism: PLA for rigidity 
 - Phone case: TPU to compress around the phone for a tight fit
  
-![CAD rending with phone]({{ site.baseurl }}/assets/img/RENDER2.png)
+![CAD rendering with phone]({{ site.baseurl }}/assets/img/RENDER2.png)
 ![CAD rendering with phone]({{ site.baseurl }}/assets/img/RENDER1.png)
 
 
