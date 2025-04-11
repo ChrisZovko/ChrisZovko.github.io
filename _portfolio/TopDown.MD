@@ -78,8 +78,8 @@ Different parts required different materials based on their functional requireme
 - Rotation mechanism: PLA for rigidity 
 - Phone case: TPU to compress around the phone for a tight fit
  
-![CAD rendering of phone holder]({{ site.baseurl }}assets/img/REDNER2.png)
-![CAD rendering of phone holder]({{ site.baseurl }}assets/img/RENDER1.png)
+![CAD rendering of phone holder](/assets/img/RENDER2.png)
+![CAD rendering of phone holder](/assets/img/RENDER1.png)
 
 ## Iterative Process
 
