@@ -27,7 +27,7 @@ This project is a rotatable phone holder designed to mount securely on bicycle h
 
 # Interactive CAD Model
 <div class="embed-container">
-  <iframe src="https://a360.co/your_model_link" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+  <iframe src=https://a360.co/4coyEgI width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 </div>
 
 # Top-Down Modeling Approach
