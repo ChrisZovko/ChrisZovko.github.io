@@ -77,7 +77,7 @@ Different parts required different materials based on their functional requireme
 - Handlebar clamp: TPU in order to compress around the bike grip
 - Rotation mechanism: PLA for rigidity 
 - Phone case: TPU to compress around the phone for a tight fit
-
+ 
 ![CAD rendering of phone holder]({{ site.baseurl }}/assets/img/phone_holder_rendering.jpg)
 
 ## Iterative Process
@@ -93,8 +93,8 @@ The design process was very direct with my initial design being the concept that
 
 Standard filament printing using TPU and PLA was used for this project. There were options to SLS print, however that was unecessary for my design because there were no parts that were so thin that they would break. This method was used for every parts of the print because it was the most accessible, provided all structural functions that the model needed, and could provide a variety of materials. 
 
-![Cross-section view of internal rotation mechanism]({{ site.baseurl }}assets/img/SideviewAnalysis.png)
-![Top view of internal rotation mechanism]({{ site.baseurl }}assets/img/TopDownAnalysis.png)
+![Cross-section view of internal rotation mechanism]({{ site.baseurl }}/assets/img/SideviewAnalysis.png)
+![Top view of internal rotation mechanism]({{ site.baseurl }}/assets/img/TopDownAnalysis.png)
 
 # Assembly Instructions
 
