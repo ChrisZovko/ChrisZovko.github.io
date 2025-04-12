@@ -31,11 +31,11 @@ For this phone holder, I utilized top-down modeling by creating several componen
 - Detent mechanism centerpiece
 - Bike grip
 
-![Phone Case Component](../assets/img/A%20-%20Copy.png)
-![Detent Mechanism Holder](../assets/img/AA%20-%20Copy.png)
-![Detent Mechanism Cover](../assets/img/AAAA.png)
-![Detent Mechanism Centerpiece](../assets/img/AAAAA%20-%20Copy.png)
-![Bike Grip Component](../assets/img/AAAAAA%20-%20Copy.png)
+![Phone Case Component](/assets/img/A%20-%20Copy.png)
+![Detent Mechanism Holder](/assets/img/AA%20-%20Copy.png)
+![Detent Mechanism Cover](/assets/img/AAAA.png)
+![Detent Mechanism Centerpiece](/assets/img/AAAAA%20-%20Copy.png)
+![Bike Grip Component](/assets/img/AAAAAA%20-%20Copy.png)
 
 Using top-down modeling was very effective for this design because there were a variety of parts that needed to be properly aligned in order for screws to fit properly within multiple parts. The method also made it easier to build parts ontop of each other in precisely the right location.
 
@@ -70,14 +70,14 @@ Different parts required different materials based on their functional requireme
 - Rotation mechanism: PLA for rigidity 
 - Phone case: TPU to compress around the phone for a tight fit
  
-![CAD rendering with phone](../assets/img/RENDER2.png)
-![CAD rendering with phone](../assets/img/RENDER1.png)
+![CAD rendering with phone](/assets/img/RENDER2.png)
+![CAD rendering with phone](/assets/img/RENDER1.png)
 
 ## Iterative Process
 
 The design process was very direct with my initial design being the concept that I followed all the way through. This design is the most straightforward approach for designing a detent based phone holder for a bike. It requires three parts to be assemblied to form the detent. Then the detent mechanism is attached to the phone and all of these parts are attached to the bike grip. 
 
-![Final design](../assets/img/final_design.jpg)
+![Final design](/assets/img/final_design.jpg)
 
 # Manufacturing Method
 
@@ -85,8 +85,8 @@ The design process was very direct with my initial design being the concept that
 
 Standard filament printing using TPU and PLA was used for this project. There were options to SLS print, however that was unecessary for my design because there were no parts that were so thin that they would break. This method was used for every parts of the print because it was the most accessible, provided all structural functions that the model needed, and could provide a variety of materials. 
 
-![Cross-section view of internal rotation mechanism](../assets/img/SideviewAnalysis.png)
-![Top view of internal rotation mechanism](../assets/img/TopDownAnalysis.png)
+![Cross-section view of internal rotation mechanism](/assets/img/SideviewAnalysis.png)
+![Top view of internal rotation mechanism](/assets/img/TopDownAnalysis.png)
 
 # Assembly Instructions
 
@@ -96,15 +96,11 @@ The assembly is very straight forward. First insert the ball and spring to the b
 
 Below is a demonstration of the phone holder rotating between portrait and landscape orientations:
 
-<video width="640" height="360" controls>
-  <source src="/assets/img/IMG_2999 (online-video-cutter.com).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Phone Holder Rotation Demonstration](/assets/img/IMG_2999%20(online-video-cutter.com).gif)
 
 And here are views of the phone in both portrait and landscape orientations:
 
-![Phone in Portrait Mode](../assets/img/BBBB.png)
-
-![Phone Holder Rotation Demonstration](../assets/img/IMG_2999%20(online-video-cutter.com).gif)
+![Phone in Portrait Mode](/assets/img/BBBB.png)
+![Phone in Landscape Mode](/assets/img/BBBBB.png)
 
 # Gallery
