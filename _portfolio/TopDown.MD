@@ -2,21 +2,8 @@
 title: "Phone Holder for Bike"
 excerpt: "Rotatable bike phone holder that attaches to bike grip"
 header:
-  image: /assets/img/phone_holder_header.jpg
-  teaser: /assets/img/phone_holder_teaser.jpg
-gallery:
-  - url: /assets/img/holder_portrait.jpg
-    image_path: /assets/img/holder_portrait.jpg
-    alt: "Phone Holder in Portrait Mode"
-  - url: /assets/img/holder_landscape.jpg
-    image_path: /assets/img/holder_landscape.jpg
-    alt: "Phone Holder in Landscape Mode"
-  - url: /assets/img/rotation_mechanism.jpg
-    image_path: /assets/img/rotation_mechanism.jpg
-    alt: "Rotation Mechanism Close-up"
-  - url: /assets/img/holder_installation.jpg
-    image_path: /assets/img/holder_installation.jpg
-    alt: "Phone Holder Installation"
+  image: /assets/img/RENDER2.png
+  teaser: /assets/img/RENDER1.png
 toc: true
 toc_sticky: true
 ---
@@ -121,4 +108,3 @@ And here are views of the phone in both portrait and landscape orientations:
 ![Phone in Landscape Mode](/assets/img/BBBBBB.png)
 
 # Gallery
-{% include gallery caption="Images of the handlebar phone holder in various configurations" %}
