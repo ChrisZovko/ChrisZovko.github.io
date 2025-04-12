@@ -3,6 +3,9 @@ title: "Phone Holder for Bike"
 excerpt: "Rotatable bike phone holder that attaches to bike grip"
 header:
   image: /assets/img/RENDER1.png
+  teaser: /assets/img/RENDER2.png
+  overlay_filter: 0.3
+  caption: "CAD rendering of rotatable bike phone mount"
 toc: true
 toc_sticky: true
 ---
