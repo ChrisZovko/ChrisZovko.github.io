@@ -110,7 +110,11 @@ The assembly is very straight forward. First insert the ball and spring to the b
 
 Below is a demonstration of the phone holder rotating between portrait and landscape orientations:
 
-![Phone Holder Rotation Demonstration](/assets/img/rotation_demo.gif)
+![Phone Holder Rotation Demonstration](/assets/img/BBBB.png)
+
+And here are views of the phone in both portrait and landscape orientations:
+
+![Phone in Portrait Mode](/assets/img/BBBBB.png)
 
 # Gallery
 {% include gallery caption="Images of the handlebar phone holder in various configurations" %}
