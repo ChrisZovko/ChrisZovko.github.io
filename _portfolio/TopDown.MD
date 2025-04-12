@@ -8,6 +8,14 @@ header:
   caption: "CAD rendering of rotatable bike phone mount"
 toc: true
 toc_sticky: true
+classes: wide
+sidebar:
+  - title: "Project Overview"
+    image: /assets/img/RENDER2.png
+    image_alt: "Phone holder preview"
+    text: "A rotatable bike phone holder with a detent mechanism for secure positioning in portrait or landscape orientation."
+  - title: "Materials"
+    text: "TPU and PLA multi-material 3D printed design"
 ---
 
 # Introduction: Handlebar Phone Holder
