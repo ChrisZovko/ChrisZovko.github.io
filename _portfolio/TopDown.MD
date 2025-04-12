@@ -45,7 +45,7 @@ For this phone holder, I utilized top-down modeling by creating several componen
 - Detent mechanism centerpiece
 - Bike grip
 
-![Phone Case Component](/assets/img/A-Copy.png)
+![Phone Case Component](/assets/img/A - Copy.png)
 ![Detent Mechanism Holder](/assets/img/AA-Copy.png)
 ![Detent Mechanism Cover](/assets/img/AAAA.png)
 ![Detent Mechanism Centerpiece](/assets/img/AAAAA-Copy.png)
