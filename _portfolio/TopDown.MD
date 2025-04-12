@@ -2,8 +2,13 @@
 title: "Phone Holder for Bike"
 excerpt: "Rotatable bike phone holder that attaches to bike grip"
 header:
-  image: /assets/img/RENDER1.png
-  teaser: /assets/img/RENDER2.png
+  overlay_image: /assets/img/RENDER1.png
+  overlay_filter: 0.5
+  image_description: "Rotatable phone holder for bicycle"
+  caption: "Phone holder CAD model"
+  actions:
+    - label: "View on GitHub"
+      url: "https://github.com/yourusername/your-repo"
 toc: true
 toc_sticky: true
 ---
