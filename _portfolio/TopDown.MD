@@ -105,4 +105,3 @@ And here are views of the phone in both portrait and landscape orientations:
 
 ![Phone in Portrait Mode](/assets/img/BBBB.png)
 ![Phone in Landscape Mode](/assets/img/BBBBB.png)
-
