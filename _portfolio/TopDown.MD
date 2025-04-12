@@ -45,11 +45,11 @@ For this phone holder, I utilized top-down modeling by creating several componen
 - Detent mechanism centerpiece
 - Bike grip
 
-![Phone Case Component](/assets/img/A - Copy.png)
-![Detent Mechanism Holder](/assets/img/AA-Copy.png)
+![Phone Case Component](/assets/img/A%20-%20Copy.png)
+![Detent Mechanism Holder](/assets/img/AA%20-%20Copy.png)
 ![Detent Mechanism Cover](/assets/img/AAAA.png)
-![Detent Mechanism Centerpiece](/assets/img/AAAAA-Copy.png)
-![Bike Grip Component](/assets/img/AAAAAA-Copy.png)
+![Detent Mechanism Centerpiece](/assets/img/AAAAA%20-%20Copy.png)
+![Bike Grip Component](/assets/img/AAAAAA%20-%20Copy.png)
 
 Using top-down modeling was very effective for this design because there were a variety of parts that needed to be properly aligned in order for screws to fit properly within multiple parts. The method also made it easier to build parts ontop of each other in precisely the right location.
 
