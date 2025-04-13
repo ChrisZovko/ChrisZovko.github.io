@@ -9,7 +9,7 @@ toc_sticky: true
 ---
 
 # Introduction: Handlebar Phone Holder
-
+ 
 This project is a rotatable phone holder designed to mount securely on bicycle handlebars. The holder allows for quick rotation between landscape and portrait orientations, making it versatile for navigation, fitness tracking, or media consumption while riding. Within the phone holder there is a detent bechanism which allows for the phone to rotate. The design is a multimaterial design, incorporating TPU and PLA parts. Moreover, the model was deisnged using top down CAD modeling. 
 
 # Interactive CAD Model
