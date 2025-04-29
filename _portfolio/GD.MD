@@ -2,8 +2,8 @@
 title: "Controller and Headphone Stand"
 excerpt: "Controller and Headphone stand that used generative design to find the optimal topology"
 header:
-  image: /assets/img/zModelStand.png
-  teaser: /assets/img/zModelStand.png
+  image:  /assets/img/zmodelStand.png
+  teaser:  /assets/img/zmodelStand.png
 
 gallery:
   - url: /assets/img/ObjectGeo.png
