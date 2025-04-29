@@ -2,8 +2,8 @@
 title: "Controller and Headphone Stand"
 excerpt: "Controller and Headphone stand that used generative design to find the optimal topology"
 header:
-  image: /assets/img/BestStand.jpg
-  teaser: /assets/img/Birdseye.jpg
+  image: /assets/img/zModelStand.png
+  teaser: /assets/img/zModelStand.png
 
 gallery:
   - url: /assets/img/ObjectGeo.png
@@ -24,7 +24,7 @@ The object I designed is a PS5 and Bose Headphone stand that also contains a pla
 ![Preserve Geometries](/assets/img/BestStand.jpg)
 
 ## Problem being Solved
-For me, this device is great for me because I wanted a very simple and easy to use device to place my videogame controllers after my friends and I play. Similarly, I added a headphone stand to the device because I often put them somewhere random and then have to find them before I go out. This stand will make it a lot easier for me to organize items that I used often. For others who might use the device it solves a similar issue. It is very easy to lose controllers around a house when people do not play so often or if there are a lot of people using a gaming console in a house. A controller stand makes it very easy for everyone to know where to find the controllers and put them once they are done playing. Having the headphone stand can be useful for people who use headphones when they play games.
+For me, this device is great because I wanted a very simple and easy to use device to place my videogame controllers after my friends and I play. Similarly, I added a headphone stand to the device because I often put them somewhere random and then have to find them before I go out. This stand will make it a lot easier for me to organize items that I used often. For others who might use the device it solves a similar issue. It is very easy to lose controllers around a house when people do not play so often or if there are a lot of people using a gaming console in a house. A controller stand makes it very easy for everyone to know where to find the controllers and put them once they are done playing. Having the headphone stand can be useful for people who use headphones when they play games.
 
 ![Preserve Geometries](/assets/img/Basic_Image_of_stand.jpg)
 
@@ -63,6 +63,6 @@ As for industries where generative design is not going to be useful I would say 
 ## Future Iterations
 In the project I worked within a size limitation that the height, width, and length of the part could not pass 100mm. This challenged me to find a way for the headphones to sit on the stand but it could not be a traditional method where the headphones band was supported from the bottom since the muffs would touch the floor. Some designs I want to work on in the future are a variation that worked within similar size limitation but uses a table clamp so that the headphones could be support from underneath without touching the floor because the device would hang off a table. Another design I am going to work on is a larger model which is made with enough space to very easily hold everything. Overall, the model I created has functional flaws in the headphone section that need to be repaired while the controller and general holdings platforms work exceptionally well. 
 
-![View of Final Generative Design in Fusion 360](/assets/img/zModelStand.png)
+
 
 {% include gallery caption="Controller and Headphone Stand Project Gallery" %}
