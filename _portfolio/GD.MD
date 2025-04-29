@@ -9,13 +9,17 @@ gallery:
 
     image_path: /assets/img/ObjectGeo.png
 
-  - url: /assets/img/Preserve.png
-    image_path: /assets/img/Preserve.png
-
-    alt: "final device image"
-  - url: assets/img/Mold Picture.jpg
+ 
     image_path: assets/img/Mold Picture.jpg
     alt: "CAD Mold"
+
+assets/img/Basic_Image_of_stand.jpg
+
+assets/img/BestStand.jpg
+
+assets/img/Birdseye.jpg
+
+
 ---
 
 
@@ -35,27 +39,30 @@ gallery:
 
 
 
+## Forces
+  For my forces I chose to exxagerate the weight and value of each in order to see how the generative design method would respond and to get more unique geometries. In reality, the headphones weight should be around 1-3N or Nmm while the controller weight should be about 4-5N when the two controllers are together. Most forces are downward because that would be the most basic direction that the forces of items on the stand would be applied. As for moment forces that were incldued, the direction was determined by the direction I was most conerned about the stand falling over. Even with the moment that was placed in the headphone slot, but the stand does not have the proper weight distribution to stop from turning over if the earmuffs of the headphones are not supported by a table or other surface. Due to the forces and constraints that I applied there were some extra support applied to a few different platforms. For example the headphones platform received a full block underneath it when in my initial CAD design it was sitting in the air; the general holdings platform received a support on one side to support a heavy load on one end; the controller platform all received some underneath support to handle an uneven load if one controller is on the platform at a time.
+
+| Forces| Magnitude | Rational
+| ----------- | ----------- |
+| Downward Force | 18N | Downward force to represent the weight of the PS5 controllers
+| Moment | 18 Nmm | Moment to represent the weight of the headpgones trying to turn out of the headphone stand
+| Remote Downward Force | 11N | Remote downward force to represent unequal weight on the general holdings platform
+| Downward Force | 12N | Downward force on general holdings platform to represent weight on platform
+| 2040 Aluminum Extrusion 1' Length | 1 |
+| Moment | 15Nmm | Moment around center pillar to support any twisting or turning applied to stand
+| Remote Moment x2 | 9Nmm | Two remote moment forces on the controller stand platform to support only one controller being on the stand by itself
+| Downward Force | 6N | Downward Force to represent the headphones weight in the holder
+
 
 
 ## Critique of Generative Design
   The generative design process sounds very effective for making parts that go into more technical devices like cars or planes etc.. However, for my purposes I am not sure how much benefit was added to the quality of my device by using generative design. It would have taken me less time to adjust my original model with a few extra supports below the platforms of my stand to get a nearly identical result to what I made with generative design. However, I do think that there are some devices that benefit from the aesthetics of what generative design does to a model. For example, I saw one model of a headphones stand where the center pillar looked almost like a DNA helix which was interested and a similar design for sunglasses frames. For the purpose of aesthetic in basic devices it is worthwhile to use generative design. Even in my device, I do like the style of the generatively designed parts. 
+  Industries where generative design will be very useful are likely automotive, industrial, or aerospace. What generative design is great for is modeling what is necesarry for a part or model to do its intended function in the most material friendly way possible. Id also say generative design could be very useful for art. If you are a sculptor, then designing new pieces using generative design or gaining inspiriation from what can be created with generative design seems very useful.
+  As for industries where generative design is not going to be useful I would say any basic household item. For example, as I said, my headphones/controller stand did not have to be generatively designed it was just an intuitive model for this project. Another example is a mug holder that was made by a friend of mine. Most consumers just want the simplest, most cost effective item possible and the uniqueness of a generatively designed toothbrush holder or gaming stand is not going to make them want to buy a product rather than a basic, cheap item. 
 
 
-
-
-
-
-
-| Forces| Magnitude | Rational
-| ----------- | ----------- |
-| 250mm lead screw with 2mm pitch and 2mm lead | 1 |
-| 1/4' x 8mm Flexible Coupling | 1 |
-| 200mm linear rod with 8mm diameter | 2 |
-| LM8UU Linear bearing for 8mm diameter rod | 2 |
-| 2040 Aluminum Extrusion 1' Length | 1 |
-| Nema 17 Stepper Motor | 1 |
-| MEAN WELL RQ-65D AC-DC POWER SUPPLY Quad Output 5V 12V 24V 12V 4 Amp | 1 |
-| Adruino Uno | 1 |
+## Future Iterations
+  In the project I worked within a size limitation that the height, width, and length of the part could not pass 100mm. This challenged me to find a way for the headphones to sit on the stand but it could not be a traditional method where the headphones band was supported from the bottom since the muffs would touch the floor. Some designs I want to work on in the future are a variation that worked within similar size limitation but uses a table clamp so that the headphones could be support from underneath without touching the floor because the device would hang off a table. Another design I am going to work on is a larger model which is made with enough space to very easily hold everything. Overall, the model I created has functional flaws in the headphone section that need to be repaired while the controller and general holdings platforms work exceptionally well. 
 
 
 
@@ -67,34 +74,6 @@ gallery:
 
 
 
-
-
-GitHub:
-
-
-
-
-
-o Load Case Application and Structural Constraints
-▪ Explain the types of forces you applied in the generative design study and
-why each was necessary.
-▪ How did you determine the magnitude, direction, and location of each
-load?
-▪ Where did you apply structural constraints, and how did this affect the
-results?
-▪ How can you test your real-world prototype to further refine the loads?
-o Critique of Generative Design
-▪ In your experience, how useful is generative design for practical
-engineering or prototyping?
-▪ What limitations did you encounter?
-▪ In what types of applications or industries would generative design be
-most useful? Where might it fall short?
-• Embedded Fusion 360 Model
-• Table of the forces applied, including columns for
-o Name of force
-o Magnitude
-o Location of where it was applied
-o Short rational
 • Multimedia:
 o Real life image(s) of the model serving its desired purpose. Comparison to nongenerative design component if applicable.
 o .GIF if there is motion in normal use
