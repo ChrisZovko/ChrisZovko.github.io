@@ -51,8 +51,8 @@ assets/img/Birdseye.jpg
 | 2040 Aluminum Extrusion 1' Length | 1 |
 | Moment | 15Nmm | Moment around center pillar to support any twisting or turning applied to stand
 | Remote Moment x2 | 9Nmm | Two remote moment forces on the controller stand platform to support only one controller being on the stand by itself
-| Downward Force | 6N | Downward Force to represent the headphones weight in the holder
-
+| Downward Force | 6N | Downward Force to represent the headphones weight in the holder 
+ 
 
 
 ## Critique of Generative Design
