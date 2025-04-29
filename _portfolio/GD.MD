@@ -5,10 +5,13 @@ header:
   image: /assets/img/Screenshot 2025-01-20 182627.png
   teaser: /assets/img/Screenshot 2025-01-20 182627.png
 gallery:
-  - url: assets/img/Best_Testing_Image.jpg
-    image_path: assets/img/Best_Testing_Image.jpg
-  - url: /assets/img/Final_Device.jpg
-    image_path: /assets/img/Final_Device.jpg
+  - url: /assets/img/ObjectGeo.png
+
+    image_path: /assets/img/ObjectGeo.png
+
+  - url: /assets/img/Preserve.png
+    image_path: /assets/img/Preserve.png
+
     alt: "final device image"
   - url: assets/img/Mold Picture.jpg
     image_path: assets/img/Mold Picture.jpg
