@@ -4,21 +4,18 @@ excerpt: "Controller and Headphone stand that used generative design to find the
 header:
   image: assets/img/BestStand.jpg
   teaser: assets/img/Birdseye.jpg
+
 gallery:
   - url: /assets/img/ObjectGeo.png
-
     image_path: /assets/img/ObjectGeo.png
-
- 
-    image_path: assets/img/Mold Picture.jpg
-    alt: "CAD Mold"
-
-assets/img/Basic_Image_of_stand.jpg
-
-assets/img/BestStand.jpg
-
-assets/img/Birdseye.jpg
-
+  - url: assets/img/Basic_Image_of_stand.jpg
+    image_path: assets/img/Basic_Image_of_stand.jpg
+  - url: assets/img/Birdseye.jpg
+    image_path: assets/img/Birdseye.jpg
+  - url: assets/img/Birdseye.jpg
+    image_path: assets/img/Birdseye.jpg
+  - url: /assets/img/zmodelStand.png
+    image_path: /assets/img/zmodelStand.png
 
 ---
 
@@ -69,7 +66,8 @@ assets/img/Birdseye.jpg
 ## Future Iterations
   In the project I worked within a size limitation that the height, width, and length of the part could not pass 100mm. This challenged me to find a way for the headphones to sit on the stand but it could not be a traditional method where the headphones band was supported from the bottom since the muffs would touch the floor. Some designs I want to work on in the future are a variation that worked within similar size limitation but uses a table clamp so that the headphones could be support from underneath without touching the floor because the device would hang off a table. Another design I am going to work on is a larger model which is made with enough space to very easily hold everything. Overall, the model I created has functional flaws in the headphone section that need to be repaired while the controller and general holdings platforms work exceptionally well. 
 
-
+![View of Final Generative Design in Fusion 360](/assets/img
+/zModelStand (2).png)
 
 
 
