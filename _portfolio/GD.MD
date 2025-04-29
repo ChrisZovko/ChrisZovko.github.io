@@ -42,18 +42,15 @@ assets/img/Birdseye.jpg
 ## Forces
   For my forces I chose to exxagerate the weight and value of each in order to see how the generative design method would respond and to get more unique geometries. In reality, the headphones weight should be around 1-3N or Nmm while the controller weight should be about 4-5N when the two controllers are together. Most forces are downward because that would be the most basic direction that the forces of items on the stand would be applied. As for moment forces that were incldued, the direction was determined by the direction I was most conerned about the stand falling over. Even with the moment that was placed in the headphone slot, but the stand does not have the proper weight distribution to stop from turning over if the earmuffs of the headphones are not supported by a table or other surface. Due to the forces and constraints that I applied there were some extra support applied to a few different platforms. For example the headphones platform received a full block underneath it when in my initial CAD design it was sitting in the air; the general holdings platform received a support on one side to support a heavy load on one end; the controller platform all received some underneath support to handle an uneven load if one controller is on the platform at a time.
 
-| Forces| Magnitude | Rational
-| ----------- | ----------- |
-| Downward Force | 18N | Downward force to represent the weight of the PS5 controllers
-| Moment | 18 Nmm | Moment to represent the weight of the headpgones trying to turn out of the headphone stand
-| Remote Downward Force | 11N | Remote downward force to represent unequal weight on the general holdings platform
-| Downward Force | 12N | Downward force on general holdings platform to represent weight on platform
-| 2040 Aluminum Extrusion 1' Length | 1 |
-| Moment | 15Nmm | Moment around center pillar to support any twisting or turning applied to stand
-| Remote Moment x2 | 9Nmm | Two remote moment forces on the controller stand platform to support only one controller being on the stand by itself
-| Downward Force | 6N | Downward Force to represent the headphones weight in the holder 
- 
-
+| Forces | Magnitude | Rational |
+| ----------- | ----------- | ----------- |
+| Downward Force | 18N | Downward force to represent the weight of the PS5 controllers |
+| Moment | 18 Nmm | Moment to represent the weight of the headphones trying to turn out of the headphone stand |
+| Remote Downward Force | 11N | Remote downward force to represent unequal weight on the general holdings platform |
+| Downward Force | 12N | Downward force on general holdings platform to represent weight on platform |
+| Moment | 15Nmm | Moment around center pillar to support any twisting or turning applied to stand |
+| Remote Moment x2 | 9Nmm | Two remote moment forces on the controller stand platform to support only one controller being on the stand by itself |
+| Downward Force | 6N | Downward Force to represent the headphones weight in the holder |
 
 ## Critique of Generative Design
   The generative design process sounds very effective for making parts that go into more technical devices like cars or planes etc.. However, for my purposes I am not sure how much benefit was added to the quality of my device by using generative design. It would have taken me less time to adjust my original model with a few extra supports below the platforms of my stand to get a nearly identical result to what I made with generative design. However, I do think that there are some devices that benefit from the aesthetics of what generative design does to a model. For example, I saw one model of a headphones stand where the center pillar looked almost like a DNA helix which was interested and a similar design for sunglasses frames. For the purpose of aesthetic in basic devices it is worthwhile to use generative design. Even in my device, I do like the style of the generatively designed parts. 
