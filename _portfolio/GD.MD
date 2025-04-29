@@ -2,8 +2,8 @@
 title: "Controller and Headphone Stand"
 excerpt: "Controller and Headphone stand that used generative design to find the optimal topology"
 header:
-  image: /assets/img/Screenshot 2025-01-20 182627.png
-  teaser: /assets/img/Screenshot 2025-01-20 182627.png
+  image: assets/img/BestStand.jpg
+  teaser: assets/img/Birdseye.jpg
 gallery:
   - url: /assets/img/ObjectGeo.png
 
@@ -27,20 +27,28 @@ assets/img/Birdseye.jpg
 ## Overview of Part + Applications
   The object I designed is a PS5 and Bose Headphone stand that also contains a platform for holding other small items as necessary. All the holders are extruded from a center pillar which provides most of the stability for the model. There is also some support below the general items platform to support uneven loads along the platform. As its name suggests the item can be used to hold PS5 controllers, but also any video game controllers can be supported by the stand, and headphones which have a specific slot to be put in. Besides the specific things the stand can hold the user could also place other small items such as pens, glasses, snacks etc. which makes it a very versatile stand to use on your desk or gaming area.
 
+![Preserve Geometries](assets/img/BestStand.jpg)
+
+
 ## Problem being Solved
   For me, this device is great for me because I wanted a very simple and easy to use device to place my videogame controllers after my friends and I play. Similarly, I added a headphone stand to the device because I often put them somewhere random and then have to find them before I go out. This stand will make it a lot easier for me to organize items that I used often. For others who might use the device it solves a similar issue. It is very easy to lose controllers around a house when people do not play so often or if there are a lot of people using a gaming console in a house. A controller stand makes it very easy for everyone to know where to find the controllers and put them once they are done playing. Having the headphone stand can be useful for people who use headphones when they play games.
 
+![Preserve Geometries](assets/img/Basic_Image_of_stand.jpg)
 
 ## Obstacle Geometries
-  Obstacle geometries are areas in the generative design process that are sectioned off as places where the device cannot be expanded into because the user will need access to that area around the model. My obstacle geomtries are very intuitive. I have preserve geometries for the controllers, headphones, and the area on the general holding platform where items can go. My obstacle geoemtries are very large to ensure that there would be plenty of space around the stand for people to use the device as they need to, rather than how it was specifically designed to be used. If a user wanted to put TV remotes on it rather than PS5 controllers, the preserve geoemtries ensure that there wont be any issues. PICTURE. 
+  Obstacle geometries are areas in the generative design process that are sectioned off as places where the device cannot be expanded into because the user will need access to that area around the model. My obstacle geomtries are very intuitive. I have preserve geometries for the controllers, headphones, and the area on the general holding platform where items can go. My obstacle geoemtries are very large to ensure that there would be plenty of space around the stand for people to use the device as they need to, rather than how it was specifically designed to be used. If a user wanted to put TV remotes on it rather than PS5 controllers, the preserve geoemtries ensure that there wont be any issues. 
+
+![Obstacle Geometries](/assets/img/ObjectGeo.png)
   
 ## Preserve Geomtries
   Preserve Geomtries are shapes in the originally designed CAD model that you do not want to be distorted by the generative design optimization process. I used a technique for my preserve geometries which involved separted the parts of the stand which hold items into two separate bodies. The first body is the area of the stand which would be directly or very close to being in contact with an item, this was preserved. The second body is the area that is further beneath the item being held by the stand which was not preserved. What this technique allows to happen is for the geoemtry that is needed to hold each item is preserved but areas of the stand that are not directly involved in holding the item are maintained. PICTURE
 
-
+![Preserve Geometries](/assets/img/Preserve.png)
 
 ## Forces
   For my forces I chose to exxagerate the weight and value of each in order to see how the generative design method would respond and to get more unique geometries. In reality, the headphones weight should be around 1-3N or Nmm while the controller weight should be about 4-5N when the two controllers are together. Most forces are downward because that would be the most basic direction that the forces of items on the stand would be applied. As for moment forces that were incldued, the direction was determined by the direction I was most conerned about the stand falling over. Even with the moment that was placed in the headphone slot, but the stand does not have the proper weight distribution to stop from turning over if the earmuffs of the headphones are not supported by a table or other surface. Due to the forces and constraints that I applied there were some extra support applied to a few different platforms. For example the headphones platform received a full block underneath it when in my initial CAD design it was sitting in the air; the general holdings platform received a support on one side to support a heavy load on one end; the controller platform all received some underneath support to handle an uneven load if one controller is on the platform at a time.
+
+![Forces Applied to Model](/assets/img/zForces.png)
 
 | Forces | Magnitude | Rational |
 | ----------- | ----------- | ----------- |
