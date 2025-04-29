@@ -45,7 +45,7 @@ assets/img/Birdseye.jpg
 | Forces | Magnitude | Rational |
 | ----------- | ----------- | ----------- |
 | Downward Force | 18N | Downward force to represent the weight of the PS5 controllers |
-| Moment | 18 Nmm | Moment to represent the weight of the headphones trying to turn out of the headphone stand |
+| Moment | 18Nmm | Moment to represent the weight of the headphones trying to turn out of the headphone stand |
 | Remote Downward Force | 11N | Remote downward force to represent unequal weight on the general holdings platform |
 | Downward Force | 12N | Downward force on general holdings platform to represent weight on platform |
 | Moment | 15Nmm | Moment around center pillar to support any twisting or turning applied to stand |
