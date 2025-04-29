@@ -60,6 +60,10 @@ Industries where generative design will be very useful are likely automotive, in
   
 As for industries where generative design is not going to be useful I would say any basic household item. For example, as I said, my headphones/controller stand did not have to be generatively designed it was just an intuitive model for this project. Another example is a mug holder that was made by a friend of mine. Most consumers just want the simplest, most cost effective item possible and the uniqueness of a generatively designed toothbrush holder or gaming stand is not going to make them want to buy a product rather than a basic, cheap item. 
 
+
+## Possible Iterations
+![Possible Iteration](/assets/img/Screenshot 2025-04-29 183253.png)
+
 ## Future Iterations
 In the project I worked within a size limitation that the height, width, and length of the part could not pass 100mm. This challenged me to find a way for the headphones to sit on the stand but it could not be a traditional method where the headphones band was supported from the bottom since the muffs would touch the floor. Some designs I want to work on in the future are a variation that worked within similar size limitation but uses a table clamp so that the headphones could be support from underneath without touching the floor because the device would hang off a table. Another design I am going to work on is a larger model which is made with enough space to very easily hold everything. Overall, the model I created has functional flaws in the headphone section that need to be repaired while the controller and general holdings platforms work exceptionally well. 
 
