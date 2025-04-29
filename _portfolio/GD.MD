@@ -66,8 +66,7 @@ gallery:
 ## Future Iterations
   In the project I worked within a size limitation that the height, width, and length of the part could not pass 100mm. This challenged me to find a way for the headphones to sit on the stand but it could not be a traditional method where the headphones band was supported from the bottom since the muffs would touch the floor. Some designs I want to work on in the future are a variation that worked within similar size limitation but uses a table clamp so that the headphones could be support from underneath without touching the floor because the device would hang off a table. Another design I am going to work on is a larger model which is made with enough space to very easily hold everything. Overall, the model I created has functional flaws in the headphone section that need to be repaired while the controller and general holdings platforms work exceptionally well. 
 
-![View of Final Generative Design in Fusion 360](/assets/img
-/zModelStand (2).png)
+![View of Final Generative Design in Fusion 360](/assets/img/zModelStand (2).png)
 
 
 
@@ -77,8 +76,4 @@ gallery:
 
 
 
-• Multimedia:
-o Real life image(s) of the model serving its desired purpose. Comparison to nongenerative design component if applicable.
-o .GIF if there is motion in normal use
-o Screenshot of the different iterations or solutions in the Fusion Generative
-Design workspace.
+
